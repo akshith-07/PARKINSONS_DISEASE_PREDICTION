@@ -4,7 +4,7 @@ OVERVIEW
 Diabetes is a medical disorder that impacts how well our body uses food as fuel. Most food we eat daily is converted to sugar, commonly known as glucose, and then discharged into the bloodstream. Our pancreas releases insulin when the blood sugar levels rise.Diabetes can cause blood sugar levels to rise if it is not continuously and carefully managed, which raises the chance of severe side effects like heart attack and stroke. I, therefore, choose to forecast using Python machine learning algorithms inorder to predict the disease accurately.
 
 OBJECTIVE
-The main aim of the project is to predict diabetes via three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the diabetes disease so that a person can avoid the serious stage/conditon of the diabetes.
+The main aim of the project is to predict parkinsons disease  via three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the parkinsons disease so that a person can avoid the serious stage/conditon of the disease .
 
 LIBRARIES USED
 A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs. Python libraries play a very vital role in fields of Machine Learning, Data Science, Data Visualization, etc.Python libraries that are used in the project are: • Pandas • gradio • Numpy • Matplotlib
