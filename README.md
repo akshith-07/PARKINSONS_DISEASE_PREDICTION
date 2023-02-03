@@ -1,7 +1,7 @@
 # PARKINSONS_DISEASE_PREDICTION
 
 ## OVERVIEW
-Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves. Most food we eat daily is converted to sugar, commonly known as glucose, and then discharged into the bloodstream. Our pancreas releases insulin when the blood sugar levels rise.Diabetes can cause blood sugar levels to rise if it is not continuously and carefully managed, which raises the chance of severe side effects like heart attack and stroke. I, therefore, choose to forecast using Python machine learning algorithms inorder to predict the disease accurately.
+Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves. ymptoms start slowly. The first symptom may be a barely noticeable tremor in just one hand. Tremors are common, but the disorder may also cause stiffness or slowing of movement.Diabetes can cause blood sugar levels to rise if it is not continuously and carefully managed, which raises the chance of severe side effects like heart attack and stroke. I, therefore, choose to forecast using Python machine learning algorithms inorder to predict the disease accurately.
 
 ## OBJECTIVE
 The main aim of the project is to predict parkinsons disease  via three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the parkinsons disease so that a person can avoid the serious stage/conditon of the disease .
