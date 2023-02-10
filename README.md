@@ -13,7 +13,7 @@ A Python library is a collection of related modules. It contains bundles of code
 Dataset Collection:
 This module includes data collection and understanding the data to study the patterns and trends which helps inprediction and evaluating theresults.Dataset description is given belowThis Diabetes dataset contains 800 records and 10 attributes. Table 1. Dataset Information Attributes Type Number of Pregnancies N Glucose Level N Blood Pressure N Skin Thickness(mm) N Insulin N BMI N Age N
 
-## Data Pre-processing:
+## Data Pre-processing: 
 This phase of model handles inconsistent data in order to get more accurate and precise results. This dataset containsmissing values. So we imputed missing values for few selected attributes like Glucose level, Blood Pressure, SkinThickness, BMI and Age because these attributes cannot have values zero. Then we scale the dataset to normalizeall values.
 
 ## Clustering:
