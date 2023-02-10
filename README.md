@@ -1,5 +1,5 @@
 # PARKINSONS_DISEASE_PREDICTION
-  
+   
 ## OVERVIEW
 Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves. ymptoms start slowly. The first symptom may be a barely noticeable tremor in just one hand. Tremors are common, but the disorder may also cause stiffness or slowing of movement.In Parkinson's disease, certain nerve cells (neurons) in the brain gradually break down or die. Many of the symptoms are due to a loss of neurons that produce a chemical messenger in your brain called dopamine.
 
