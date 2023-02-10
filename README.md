@@ -5,7 +5,7 @@ Parkinson's disease is a progressive disorder that affects the nervous system an
 
 ## OBJECTIVE
 The main aim of the project is to predict parkinsons disease  via three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the parkinsons disease so that a person can avoid the serious stage/conditon of the disease .
-
+ 
 ## LIBRARIES USED
 A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs. Python libraries play a very vital role in fields of Machine Learning, Data Science, Data Visualization, etc.Python libraries that are used in the project are: • Pandas • gradio • Numpy • Matplotlib
 
