@@ -9,7 +9,7 @@ The main aim of the project is to predict parkinsons disease  via three differen
 ## LIBRARIES USED
 A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs. Python libraries play a very vital role in fields of Machine Learning, Data Science, Data Visualization, etc.Python libraries that are used in the project are: • Pandas • gradio • Numpy • Matplotlib
 
-## MODULES DESCRIPTION
+## MODULES DESCRIPTION 
 Dataset Collection:
 This module includes data collection and understanding the data to study the patterns and trends which helps inprediction and evaluating theresults.Dataset description is given belowThis Diabetes dataset contains 800 records and 10 attributes. Table 1. Dataset Information Attributes Type Number of Pregnancies N Glucose Level N Blood Pressure N Skin Thickness(mm) N Insulin N BMI N Age N
 
